@@ -1,0 +1,7 @@
+<Akshat Jindal
+ Delhi Technological University
+ Software Engineering />
+
+
+To_clone: git clone https://{your_url} -b {branch_name}
+To_add: git add .
